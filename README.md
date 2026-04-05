@@ -17,9 +17,12 @@ Data Cleaning
 
 📊 **Projects**
 
-📌 Sales Dashboard (Power BI)
+📌 Excel Automation for Data Formatting
 
-Built an interactive dashboard to track sales performance
+📌 Sales Dashboard (Power BI) : Built an interactive dashboard to track sales performance
+
+🍺 International Breweries SQL Analysis
+
 
 Tools: Excel, Power BI, SQL
 
