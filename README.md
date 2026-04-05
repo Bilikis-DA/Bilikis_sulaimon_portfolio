@@ -21,7 +21,7 @@ Data Cleaning
 
 Built an interactive dashboard to track sales performance
 
-Tools: Power BI, Excel, SQL
+Tools: Excel, Power BI, SQL
 
 📎 **View Project**
 
