@@ -20,11 +20,18 @@ Data Cleaning
 
 📊 **Projects**
 
+📌 Excel Dashboard (MS Excel) 
+
+Built an executive-style dashboard that goes beyond charts by making it easy to monitor business performance at a glance.
+
+
+
+
 📌 Sales Dashboard (Power BI) 
 
 Built an interactive dashboard to track sales performance
 
-Tools: Excel, Power BI, SQL
+Tools: Power BI
 
 📎 **View Project**
 
